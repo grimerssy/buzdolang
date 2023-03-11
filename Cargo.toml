@@ -1,0 +1,9 @@
+[package]
+name = "buzdolang"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stanislav Stoyanov <grimerssy@gmail.com>"]
+description = "Write Rust programs using Gods language"
+
+[lib]
+proc-macro = true
